@@ -1,0 +1,2 @@
+# MaxSumOfSubarrsy
+--Traning for algorithm
